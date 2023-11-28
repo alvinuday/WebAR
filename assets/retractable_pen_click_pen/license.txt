@@ -1,0 +1,11 @@
+Model Information:
+* title:	Retractable pen (click pen)
+* source:	https://sketchfab.com/3d-models/retractable-pen-click-pen-0fcbd52b43214a8a8bd32a80b1825674
+* author:	C. Yamahata (https://sketchfab.com/cyamahat)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Retractable pen (click pen)" (https://sketchfab.com/3d-models/retractable-pen-click-pen-0fcbd52b43214a8a8bd32a80b1825674) by C. Yamahata (https://sketchfab.com/cyamahat) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
